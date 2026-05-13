@@ -83,7 +83,7 @@ Detailed technical documentation and setup instructions:
 
 ## Live Demo
 
-Add deployed application link here.
+[Add deployed application link here.](https://azure-rag-chatbot.streamlit.app/)
 
 ---
 
